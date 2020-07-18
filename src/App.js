@@ -8,6 +8,7 @@ import SingleMovie from "./Component/main/SingleMovie";
 import { HashRouter as Router, Route } from "react-router-dom";
 import "./App.css";
 function App() {
+  // TODO deploy error cant fetch
   return (
     <Provider store={store}>
       <Router>

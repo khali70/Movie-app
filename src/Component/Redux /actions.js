@@ -10,7 +10,7 @@ export const Search = (text) => (dispatch) => {
 };
 export const Submit = (text) => (dispatch) => {
   axios
-    .get(`http://www.omdbapi.com/?apikey=${APIKEY}&S=${text}`)
+    .get(`https://www.omdbapi.com/?apikey=${APIKEY}&S=${text}`)
     .then((res) =>
       dispatch({
         type: SUBMIT,
