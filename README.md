@@ -1,6 +1,8 @@
-# Preview
+# [Preview](https://khali70.github.io/Movie-app/#/)
 
-![preview img](./preview.png)
+[![preview img](./preview.png)](https://khali70.github.io/Movie-app/#/)
+
+click the [link](https://khali70.github.io/Movie-app/#/) to see the website
 
 # Environment
 
